@@ -75,6 +75,7 @@ const App = () => {
     setHeightImage(null);
     setWidthImage(null);
     setImage(null);
+    setMusic(null);
     setMenu(null);
     setQuality(100);
     setRotate(0);
